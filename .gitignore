@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+*.jar
+!target/travel-booking-app-1.0.0.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Database files
+travel_booking_db.*
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
